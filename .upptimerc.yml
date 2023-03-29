@@ -26,3 +26,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/redhatcloudx/upptime
+
+assignees:
+  - fkolwa
+  - mhayden
+  - miyunari
