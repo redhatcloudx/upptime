@@ -14,7 +14,7 @@ sites:
 status-website:
   cname: status.imagedirectory.cloud
   # baseUrl: /your-repo-name
-  theme: dark
+  theme: ocean
   logoUrl: https://avatars.githubusercontent.com/u/114747495?s=200&v=4
   name: Red Hat Cloud Experience Team Status
   introTitle: "Monitoring for CloudX team infrastructure."
