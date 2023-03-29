@@ -10,8 +10,8 @@ sites:
     url: https://imagedirectory.cloud/raw/azure/eastus.json
   - name: Google CID Data
     url: https://imagedirectory.cloud/raw/google/global.json
-  - name: Failure test
-    url: https://imagedirectory.cloud/doesnotexist.html
+  # - name: Failure test
+  #   url: https://imagedirectory.cloud/doesnotexist.html
 
 status-website:
   cname: status.imagedirectory.cloud
